@@ -65,8 +65,9 @@ https://bit.ly/3hQTlaI
 ## Exercise 4 - Setting default [Args](https://storybook.js.org/docs/react/writing-stories/args)
 
 1. Add `args` to your story metadata (default export)
-   - include:
-     - `label`
+   - include: - `label`
+
+> Storybook is not yet smart enough to get the default value of props from your component declaration when using `Typescript`. But I think this is possible when you use `defaultProps`
 
 ## Exercise 5 - Overriding [args](https://storybook.js.org/docs/react/writing-stories/args) for your story variants
 
