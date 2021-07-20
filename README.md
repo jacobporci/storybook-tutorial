@@ -34,8 +34,7 @@ https://bit.ly/3hQTlaI
 
 2. Create a [named export](https://storybook.js.org/docs/react/writing-stories/introduction#defining-stories) story for your component
 
-> It is recommended you use UpperCamelCase for your story exports
-> for example:
+> It is recommended you use UpperCamelCase for your story exports, for example:
 >
 > ```
 > export const ButtonWithALabel
