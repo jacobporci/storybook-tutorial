@@ -18,7 +18,12 @@ https://bit.ly/3hQTlaI
 
    - `title`
      > The title will control how the component is structured in the Storybook's left navigation bar
-     > `title: 'Components/Button'` will be displayed as:
+     >
+     > ```
+     > title: 'Components/Button'
+     > ```
+     >
+     > will be displayed as:
      >
      > ```
      > - Components
